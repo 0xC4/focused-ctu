@@ -53,3 +53,6 @@ For method 1 & 2, simply run `python method12.py`.
 For method 3, which is more resource intensive, there is the possibility to run it in parallel to reduce runtime.
 To run method 3 for all scans, run `python method3.py 0 10`, to run te first batch of 10 total batches.
 To run all scans in a single batch, run `python method3.py 0 1`.
+
+# Trained models
+We are in the process of making the trained models public, and they will become available shortly.
